@@ -1,0 +1,3 @@
+*.o
+/avgs.c
+/vcraps
